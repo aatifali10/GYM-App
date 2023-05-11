@@ -1,0 +1,13 @@
+.programs {
+  display: flex;
+  justify-content: space-around;
+}
+.programs span {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.programs span:nth-child(2) {
+  color: white;
+  font-weight: 600;
+}
