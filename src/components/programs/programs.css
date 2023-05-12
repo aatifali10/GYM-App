@@ -17,6 +17,7 @@
 .program-categories {
   display: flex;
   gap: 1rem;
+  padding: 0 2rem;
 }
 .category {
   display: flex;
@@ -39,5 +40,12 @@
 .join-now {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 2rem;
+}
+.join-now img {
+  width: 1rem;
+}
+.category:hover {
+  background: var(--planCard);
+  cursor: pointer;
 }
