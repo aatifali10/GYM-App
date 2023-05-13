@@ -60,3 +60,8 @@
 .plans > :nth-child(2) > button {
   color: orange;
 }
+
+/* .plans button:hover {
+  background-color: rgb(241, 189, 20);
+  color: white;
+} */
