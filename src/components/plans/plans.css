@@ -76,3 +76,11 @@
   background-color: rgb(241, 189, 20);
   color: white;
 } */
+@media screen and (max-width: 768px) {
+  .plans {
+    flex-direction: column;
+  }
+  .plans > :nth-child(2) {
+    transform: none;
+  }
+}
