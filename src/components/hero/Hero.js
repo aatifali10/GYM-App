@@ -10,6 +10,7 @@ const Hero = () => {
   return (
     <>
       <div className="hero">
+        <div className="blur blur-h"></div>
         <div className="left-side">
           <Header />
           <div className="the-ad">

@@ -160,3 +160,8 @@
   color: white;
   font-size: 1.5rem;
 }
+.blur-h {
+  width: 32rem;
+  height: 30rem;
+  left: 0;
+}

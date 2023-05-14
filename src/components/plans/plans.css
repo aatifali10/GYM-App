@@ -60,7 +60,18 @@
 .plans > :nth-child(2) > button {
   color: orange;
 }
-
+.blur-p-1 {
+  width: 32rem;
+  height: 23rem;
+  right: 0rem;
+  top: 10rem;
+}
+.blur-p-2 {
+  width: 32rem;
+  height: 23rem;
+  left: 0rem;
+  top: 6rem;
+}
 /* .plans button:hover {
   background-color: rgb(241, 189, 20);
   color: white;
